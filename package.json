@@ -1,0 +1,13 @@
+{
+  "name": "cours_front3",
+  "version": "1.0.0",
+  "description": "Le cours final",
+  "main": "index.js",
+  "repository": "git@github.com:vianmora/web-front.git",
+  "author": "Louise <loisel.louise@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "postcss": "^7.0.18",
+    "tailwindcss": "^1.1.2"
+  }
+}

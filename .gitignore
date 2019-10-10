@@ -1,1 +1,4 @@
 .idea
+main.css
+yarn.lock
+node_modules
